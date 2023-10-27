@@ -8,4 +8,4 @@ This addon makes all pings louder and much easier to hear by playing the ping ef
 
 This addon will also allow you to hear ping sounds whether you have sound effects enabled or disabled.
 
-There are no options, all you need to do is install the addon. It just works!
+There are no options and it uses minimal resources. All you need to do is install the addon. It just works!
