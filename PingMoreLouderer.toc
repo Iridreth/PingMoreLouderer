@@ -3,5 +3,5 @@
 ## IconTexture: Interface\AddOns\PingMoreLouderer\Logo
 ## Notes: Make pings more louderer
 ## Author: Iridreth
-## Version: 1.1
+## Version: 1.0
 PingMoreLouderer.lua
