@@ -2,7 +2,6 @@
 
 (For World of Warcraft - Retail)
 
-
 The new ping feature is fantastic, but the pings can be hard to hear in the heat of battle, especially when you have sound effects enabled.
 
 This addon makes all pings louder and much easier to hear by playing the ping effects through the master volume channel.
