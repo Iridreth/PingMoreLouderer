@@ -1,5 +1,5 @@
 # PingMoreLouderer
-Make pings more louderer - for World of Warcraft Retail
+For World of Warcraft Retail
 
 The new ping feature is fantastic, but the pings can be hard to hear in the heat of battle, especially when you have sound effects enabled.
 
