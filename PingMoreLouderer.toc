@@ -1,7 +1,7 @@
-## Interface: 100205
+## Interface: 100206
 ## Title: PingMoreLouderer
 ## IconTexture: Interface\AddOns\PingMoreLouderer\Logo
 ## Notes: Make pings more louderer
 ## Author: Iridreth
-## Version: 1.3
+## Version: 1.4
 PingMoreLouderer.lua
