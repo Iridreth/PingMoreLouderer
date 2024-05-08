@@ -1,7 +1,7 @@
-## Interface: 100206
+## Interface: 100207
 ## Title: PingMoreLouderer
 ## IconTexture: Interface\AddOns\PingMoreLouderer\Logo
-## Notes: Make pings more louderer
+## Notes: Make ping sounds louder and play via the Master channel.
 ## Author: Iridreth
-## Version: 1.4
+## Version: 1.5
 PingMoreLouderer.lua
