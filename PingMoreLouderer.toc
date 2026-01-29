@@ -1,7 +1,7 @@
-## Interface: 110105, 110007, 110100
+## Interface: 120000, 120001
 ## Title: PingMoreLouderer
 ## IconTexture: Interface\AddOns\PingMoreLouderer\Logo
 ## Notes: Make ping sounds louder and play via the Master channel.
 ## Author: Iridreth
-## Version: 1.7
+## Version: 1.8
 PingMoreLouderer.lua
